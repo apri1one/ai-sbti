@@ -1,0 +1,16 @@
+{
+  "name": "ai-sbti",
+  "version": "1.0.0",
+  "description": "AI-SBTI: 通过分析 AI 聊天记录判定你的 AI 使用人格（16 种）",
+  "bin": {
+    "ai-sbti": "bin/cli.js"
+  },
+  "keywords": ["claude", "claude-code", "skill", "personality", "sbti", "ai"],
+  "author": "apri1one",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apri1one/ai-sbti.git"
+  },
+  "files": ["bin", "skill"]
+}
